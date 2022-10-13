@@ -133,9 +133,6 @@ single-contact{background:#eb566c;width:165px;height:150px;display:inline-block;
 }
 
 @media (min-width: 767px){
-	#home {
-		background: url('../img/persona/res4.jpg') 50% 0 repeat-y fixed;y
-	}
 
 	.essai1{
 		width: 100%;
